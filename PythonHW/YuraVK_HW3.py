@@ -21,22 +21,22 @@ usd_usd_rate = 1
 eur_item = 'eur'
 #  11. Создать переменную usd_eur_rate со значением 0.86
 usd_eur_rate = 0.86
-#
+
 #  12. Создать переменную uah_item со значением ‘uah’
 uah_item = 'uah'
 #  13. Создать переменную usd_uah_rate со значением 26.
 usd_uah_rate = 26
-#
+
 #  14. Создать переменную chf_item со значением ‘chf’
 chf_item = 'chf'
 #  15. Создать переменную usd_chf_rate со значением 0.91
 usd_chf_rate = 0.91
-#
+
 #  16. Создать переменную rub_item со значением ‘rub’
 rub_item = 'rub'
 #  17. Создать переменную usd_rub_rate со значением 71.88
 usd_rub_rate = 71.88
-#
+
 #  18. Создать переменную byn_item со значением ‘byn’
 byn_item = 'byn'
 #  19. Создать переменную usd_byn_rate со значением 2.46
